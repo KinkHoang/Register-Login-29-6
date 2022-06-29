@@ -1,0 +1,119 @@
+{
+  "users": [
+    {
+      "email": "tuan@gmail.com",
+      "password": "$2a$10$C6IBcQpg669ZQgkEWLtfG.dPopvRvML.RRylCqhkknVGQni57b2cS",
+      "fullName": "Lê Bá Thanh Tuấn",
+      "createdAt": 1654175020664,
+      "updatedAt": 1654175020664,
+      "id": 1
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "$2a$10$t0DD1Fg70LpbUQKxuC1NQ.6aVL2d4nJfwDneE2pT3jDsyClQxUscW",
+      "fullName": "hoang",
+      "createdAt": 1656415272125,
+      "updatedAt": 1656415272126,
+      "id": 2
+    },
+    {
+      "email": "abcxyz@gmail.com",
+      "password": "$2a$10$1ZotLNer0FMSiRGfd5nfbep3hxPj4U2WhiZokcwOErR8drXKe9b2O",
+      "fullName": "tuan",
+      "createdAt": 1656485392666,
+      "updatedAt": 1656485392666,
+      "id": 3
+    },
+    {
+      "email": "hoang@gmail.com",
+      "password": "$2a$10$AIfkkxWCTXR9HkXtkJDCGeoDiM2CowZmTvaj.YHc/aeawCoHomhMi",
+      "fullName": "hoang",
+      "createdAt": 1656485677735,
+      "updatedAt": 1656485677735,
+      "id": 4
+    },
+    {
+      "email": "dung@gmail.com",
+      "password": "$2a$10$J4s7JHQaxKrBuoqgm4yGtOEvDQsnWdggW8A4jsN8JTqTNjOYAJHgG",
+      "fullName": "tuan",
+      "createdAt": 1656486548056,
+      "updatedAt": 1656486548056,
+      "id": 5
+    },
+    {
+      "email": "hoa@gmail.com",
+      "password": "$2a$10$PPAkXBP/7Iv0oZUjdW37oeAcdO9f9/Ti9gDA2PdqgKLrBAKodu0wm",
+      "fullName": "tuan",
+      "createdAt": 1656489218634,
+      "updatedAt": 1656489218634,
+      "id": 6
+    },
+    {
+      "email": "tien@gmail.com",
+      "password": "$2a$10$8vniA0aY6KlfJgyZ52pvHOZN5q11cEksuqargsDpz7qvnJMXVdbxe",
+      "fullName": "tien",
+      "createdAt": 1656490459560,
+      "updatedAt": 1656490459561,
+      "id": 7
+    },
+    {
+      "email": "hoaa@gmail.com",
+      "password": "$2a$10$OqaOclyneI69mekhCNlPK.FmPXG2S2uSPh8aYPex3LW5rHHvZIAcy",
+      "fullName": "hoaa",
+      "createdAt": 1656490482313,
+      "updatedAt": 1656490482313,
+      "id": 8
+    },
+    {
+      "email": "nhung@gmail.com",
+      "password": "$2a$10$FvzC05DeKybow4IbTWprUuzYsL0zJ9.XYbSEHSosJHk1TCWXCKwp2",
+      "fullName": "nhung",
+      "createdAt": 1656490527833,
+      "updatedAt": 1656490527833,
+      "id": 9
+    },
+    {
+      "email": "rang@gmail.com",
+      "password": "$2a$10$vv64Fa0dr1xr/UeAyTrX9OfMavR0ICH04yRD7KE3j0PcyxFzLPGCa",
+      "fullName": "rang",
+      "createdAt": 1656492246085,
+      "updatedAt": 1656492246085,
+      "id": 10
+    },
+    {
+      "email": "trrang@gmail.com",
+      "password": "$2a$10$OFrszbNGDMUXK9s0nakyc.0tLLOXJxn.ZKGn4jDdM8b0fkOP2tmla",
+      "fullName": "trrang",
+      "createdAt": 1656492267392,
+      "updatedAt": 1656492267392,
+      "id": 11
+    }
+  ],
+  "products": [
+    {
+      "name": "123321",
+      "price": 123321123,
+      "categoryId": 2,
+      "id": 13
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Apple"
+    },
+    {
+      "id": 2,
+      "name": "Xiaomi"
+    },
+    {
+      "id": 3,
+      "name": "Samsung"
+    },
+    {
+      "id": 4,
+      "name": "OPPO"
+    }
+  ],
+  "comments": []
+}
